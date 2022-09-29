@@ -1,7 +1,10 @@
 # WeatherService
 Program to read a certain number of locations and print the temperature and date.
+
 Some principles of SOLID, clean code, separation of responsibility were used.
+
 Created unit test using xUnit
+
 return example in console
 
             Location |       Date | Temperature
